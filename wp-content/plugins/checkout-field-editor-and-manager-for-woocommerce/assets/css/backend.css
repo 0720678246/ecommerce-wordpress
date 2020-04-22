@@ -1,0 +1,13 @@
+.woocommerce_page_awcfe_admin_ui{
+    background:#fff;
+}
+.root_loader {
+      background: url(../images/loading_ui.png) center top no-repeat;
+      min-height: 100px;
+      margin-top: 150px;
+      padding-top: 50px;
+      width: 100%;
+      max-width: 1200px;
+      text-align: center;
+      font-weight: 600;
+}

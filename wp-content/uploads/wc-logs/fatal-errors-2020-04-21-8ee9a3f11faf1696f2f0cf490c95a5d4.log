@@ -1,0 +1,2 @@
+2020-04-21T12:10:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 10489856 bytes) in D:\xampp\htdocs\Alex-Technologies\wp-includes\functions.php on line 3877
+
